@@ -6,7 +6,6 @@ This is the main repository of the **Repository-GEE-NASA** project, developed fo
 
 Here, all the project’s code will be archived and maintained. The project uses the **GEE (Google Earth Engine)** language, working with **TERRA** data and the **Google Earth Engine API**.
 
-⚠️ **Restricted access**: only members who have sent their usernames to the official project email can use this repository.
 
 ### ⚙️ Requirements
 
@@ -33,12 +32,6 @@ The goal is to leverage **TERRA satellite data** and the power of the **Google E
 
 This repository serves as the central collaboration hub for the **Dancing' Bros** team.
 
-### 🔒 Privacy
-
-* The repository is confidential.
-* Access is restricted to authorized members only.
-* Code cannot be redistributed or published publicly.
-
 ---
 
 ## 📌 Descripción (Español)
@@ -46,8 +39,6 @@ This repository serves as the central collaboration hub for the **Dancing' Bros*
 Este es el repositorio principal del proyecto **Repository-GEE-NASA**, desarrollado para el **NASA Hackathon** por el equipo **Dancing' Bros**.
 
 Aquí se archivará y mantendrá todo el código del proyecto, escrito en el lenguaje **GEE (Google Earth Engine)** y orientado al uso de datos **TERRA** junto con la **Google Earth Engine API**.
-
-⚠️ **Acceso restringido**: solo los miembros que hayan enviado sus usernames al correo oficial del proyecto podrán utilizar este repositorio.
 
 ### ⚙️ Requisitos
 
@@ -73,9 +64,3 @@ Aquí se archivará y mantendrá todo el código del proyecto, escrito en el len
 El objetivo es aprovechar los **datos satelitales de TERRA** y el poder de la **Google Earth Engine API** para generar soluciones innovadoras dentro del marco del **NASA Hackathon**.
 
 Este repositorio funciona como el centro de colaboración del equipo **Dancing' Bros**.
-
-### 🔒 Privacidad
-
-* El repositorio es confidencial.
-* El acceso está limitado solo a miembros autorizados.
-* El código no puede ser redistribuido ni publicado públicamente.
