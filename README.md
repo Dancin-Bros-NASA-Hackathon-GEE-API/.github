@@ -1,2 +1,2 @@
-#.github  
+# .github  
 files for data of the project.
